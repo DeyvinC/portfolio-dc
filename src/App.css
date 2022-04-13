@@ -1,0 +1,24 @@
+.header {
+  width: 400px;
+  height: 200px;
+  color: black;
+  font-family: 'Playfair Display', serif;
+  font-size: 60px;
+  margin-left: 30px;
+  
+}
+
+.picture {
+  width: 400px;
+  height: 600px;
+  float: right;
+  margin-right: 20px;
+}
+
+.hero {
+  background-image: url('laptop.jpeg');
+  width: 800px;
+  height: 800px;
+  object-fit: fill;
+  margin-top: 30px;
+}
